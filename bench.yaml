@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/dlmiles/ttgf25a-bad-synchronizer
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p2
+  slot: tt_um_dlmiles_bad_synchronizer
+  project: Example of Bad Synchronizer
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 71b873f55e2c1e1d99d5fbe87dc681343abcb44c
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p2/tt_um_dlmiles_bad_synchronizer
+  branch: tapeout/tinytapeout/ttgf0p2/tt_um_dlmiles_bad_synchronizer
+  page: https://app.tinytapeout.com/shuttles/ttgf0p2
+generated: '2026-10-17T23:29:06Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p2/tt_um_dlmiles_bad_synchronizer
+- upstream/main
